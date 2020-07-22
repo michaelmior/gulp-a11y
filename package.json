@@ -28,8 +28,8 @@
     "plugin-error": "^1.0.1"
   },
   "devDependencies": {
-    "gulp": "^3.8.10",
-    "gulp-eslint": "^0.2.2",
+    "gulp": "^4.0.2",
+    "gulp-eslint": "^6.0.0",
     "mocha": "^2.1.0",
     "should": "^4.6.2",
     "vinyl": "^2.2.0"

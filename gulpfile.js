@@ -14,4 +14,4 @@ gulp.task('lint', function () {
 
 });
 
-gulp.task('default', ['lint']);
+exports.default = gulp.series('lint');
